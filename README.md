@@ -9,8 +9,8 @@
 [<img target="_blank" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png"/>](https://www.linkedin.com/in/can-polatt/)
 [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-64.png"/>](https://twitter.com/cnpolattt)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=canpolatt&bg_color=30,414141,000000&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canpolatt&layout=compact&bg_color=30,414141,000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=canpolatt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canpolatt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
