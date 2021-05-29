@@ -11,6 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canpolatt&layout=compact" alt="canpolatt" width="400"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canpolatt" alt="canpolatt" width="450" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canpolatt" alt="canpolatt" width="400" /></p>
 
 
