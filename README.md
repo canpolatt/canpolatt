@@ -1,4 +1,4 @@
-### Hi👋, I'm Can Polat
+## Hi👋, I'm Can Polat
 
 - I'm a Computer Engineering student with experience in developing both front-end and back-end systems.
 - In case you're curious here is my portfolio : https://canpolatt.github.io/
