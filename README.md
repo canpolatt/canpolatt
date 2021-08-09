@@ -9,7 +9,8 @@
 [<img target="_blank" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png"/>](https://www.linkedin.com/in/can-polatt/)
 [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-64.png"/>](https://twitter.com/cnpolattt)
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canpolatt&layout=compact" alt="canpolatt" width="400"/></p>
 
-
+-->
 
