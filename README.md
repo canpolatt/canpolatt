@@ -1,7 +1,7 @@
 ## Hi, I'm Can 👋
 
 - 💻 I'm a Computer Engineering student with experience in developing both front-end and back-end systems.
-- 🍀 In case you're curious: https://canpolatt.github.io/
+- 🍀 In case you're curious: canpolatt.com
 
 ## :mailbox: Contact Me:
 
